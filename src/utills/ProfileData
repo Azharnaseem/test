@@ -1,0 +1,9 @@
+export const profileData = [
+  {
+    name: 'azhar naseem',
+    fathername: 'muhammad nassem khan',
+    idcard: 8210150790877,
+    profession: 'student',
+    city: 'Bagh',
+  },
+];
